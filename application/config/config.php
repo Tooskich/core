@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= '/Booter/';
+$config['base_url']	= '/php-core/';
 
 /*
 |--------------------------------------------------------------------------
